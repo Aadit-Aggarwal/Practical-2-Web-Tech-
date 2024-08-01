@@ -10,8 +10,8 @@ Header {
 
 #write {    
     position: absolute;
-    top:150px;left:60%; 
-    max-width: 780px;
+    top:150px;left:65%; 
+    max-width: 600px;
     margin-left:-390px; 
     text-align: center;
     font-size: 36px;
@@ -21,7 +21,7 @@ Header {
 #write2{
     position: absolute;
     top:150px;left:50%; 
-    max-width: 780px;
+    max-width: 180px;
     margin-left:-390px; 
     text-align: center;
     font-size: 36px;
